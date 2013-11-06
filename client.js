@@ -38,6 +38,6 @@ function getRouteUnits(id) {
 }
 
 authenticate(function(){
-  getRouteUnits(841)
+  searchRoutes('LAPA')
   // console.log(true)
 })
