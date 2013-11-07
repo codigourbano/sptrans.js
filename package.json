@@ -1,6 +1,6 @@
 {
   "name": "sptrans.js",
-  "description": "A proxy/wrapper service for SPTrans API, written in NodeJS.",
+  "description": "A NodeJS module to access SPTrans "Olho Vivo" API.",
   "version": "0.0.1",
   "private": false,
   "author": "Vitor George <vitor.george@gmail.com> (http://vgeorge.github.com)",
@@ -14,9 +14,6 @@
   },
   "dependencies": {
     "request": "latest",
-    "express": "latest",
-    "express-validator": "latest",
-    "nodemon": "latest",
     "underscore": "latest"
   }
 }
