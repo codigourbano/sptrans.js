@@ -5,7 +5,7 @@ var
     assert = require('assert'),
     replay = require('replay');
 
-replay.mode = 'bloody';
+// replay.mode = 'record';
 
 describe('Bus routes API requests', function(){
   before(function() {
@@ -13,14 +13,6 @@ describe('Bus routes API requests', function(){
       api_key: api_key
     });
   });
-
-  describe('load lines available', function(){
-    // it('it should have at least 100 lines loaded', function(){
-    //   var lines = this.sptrans.getLines()
-    //   assert(Array.isArray(lines));
-    //   assert.notEqual(lines.lenght,0);
-    // })
-  })
 
   describe('when searches "748" for routes', function(){
     it('should return correct number of routes', function(done){

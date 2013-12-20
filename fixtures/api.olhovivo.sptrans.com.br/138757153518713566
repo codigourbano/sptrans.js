@@ -1,0 +1,15 @@
+GET /v0/Posicao?codigoLinha=412
+host: api.olhovivo.sptrans.com.br
+
+200 HTTP/1.1
+cache-control: no-cache
+pragma: no-cache
+content-type: application/json; charset=utf-8
+expires: -1
+server: Microsoft-IIS/7.5
+x-aspnet-version: 4.0.30319
+x-powered-by: ASP.NET
+date: Fri, 20 Dec 2013 20:32:15 GMT
+content-length: 81
+
+{"hr":"18:32","vs":[{"p":"11424","a":false,"py":-23.47637525,"px":-46.77057775},{"p":"11422","a":true,"py":-23.47323525,"px":-46.7705232375}]}

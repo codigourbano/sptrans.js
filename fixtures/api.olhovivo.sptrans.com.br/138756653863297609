@@ -1,0 +1,15 @@
+GET /v0/Linha/Buscar?termosBusca=748
+host: api.olhovivo.sptrans.com.br
+
+200 HTTP/1.1
+cache-control: no-cache
+pragma: no-cache
+content-type: application/json; charset=utf-8
+expires: -1
+server: Microsoft-IIS/7.5
+x-aspnet-version: 4.0.30319
+x-powered-by: ASP.NET
+date: Fri, 20 Dec 2013 19:08:58 GMT
+content-length: 2222
+
+[{"CodigoLinha":498,"Circular":false,"Letreiro":"748A","Sentido":1,"Tipo":10,"DenominacaoTPTS":"LAPA","DenominacaoTSTP":"JD. D ABRIL","Informacoes":null},{"CodigoLinha":33266,"Circular":false,"Letreiro":"748A","Sentido":2,"Tipo":10,"DenominacaoTPTS":"LAPA","DenominacaoTSTP":"JD. D ABRIL","Informacoes":null},{"CodigoLinha":499,"Circular":false,"Letreiro":"748A","Sentido":1,"Tipo":41,"DenominacaoTPTS":"LAPA","DenominacaoTSTP":"JD. PERI PERI","Informacoes":null},{"CodigoLinha":33267,"Circular":false,"Letreiro":"748A","Sentido":2,"Tipo":41,"DenominacaoTPTS":"LAPA","DenominacaoTSTP":"JD. PERI PERI","Informacoes":null},{"CodigoLinha":500,"Circular":false,"Letreiro":"748A","Sentido":1,"Tipo":42,"DenominacaoTPTS":"LAPA","DenominacaoTSTP":"VILA DALVA","Informacoes":null},{"CodigoLinha":33268,"Circular":false,"Letreiro":"748A","Sentido":2,"Tipo":42,"DenominacaoTPTS":"LAPA","DenominacaoTSTP":"VILA DALVA","Informacoes":null},{"CodigoLinha":1799,"Circular":true,"Letreiro":"748N","Sentido":1,"Tipo":10,"DenominacaoTPTS":"ITAIM BIBI","DenominacaoTSTP":"TERM. LAPA","Informacoes":null},{"CodigoLinha":34567,"Circular":true,"Letreiro":"748N","Sentido":2,"Tipo":10,"DenominacaoTPTS":"ITAIM BIBI","DenominacaoTSTP":"TERM. LAPA","Informacoes":null},{"CodigoLinha":501,"Circular":false,"Letreiro":"748R","Sentido":1,"Tipo":10,"DenominacaoTPTS":"METRO BARRA FUNDA","DenominacaoTSTP":"JD. JOAO XXIII","Informacoes":null},{"CodigoLinha":33269,"Circular":false,"Letreiro":"748R","Sentido":2,"Tipo":10,"DenominacaoTPTS":"METRO BARRA FUNDA","DenominacaoTSTP":"JD. JOAO XXIII","Informacoes":null},{"CodigoLinha":502,"Circular":false,"Letreiro":"748R","Sentido":1,"Tipo":41,"DenominacaoTPTS":"LAPA","DenominacaoTSTP":"JD. BOA VISTA","Informacoes":null},{"CodigoLinha":33270,"Circular":false,"Letreiro":"748R","Sentido":2,"Tipo":41,"DenominacaoTPTS":"LAPA","DenominacaoTSTP":"JD. BOA VISTA","Informacoes":null},{"CodigoLinha":503,"Circular":false,"Letreiro":"748R","Sentido":1,"Tipo":51,"DenominacaoTPTS":"LAPA","DenominacaoTSTP":"COHAB RAPOSO TAVARES","Informacoes":null},{"CodigoLinha":33271,"Circular":false,"Letreiro":"748R","Sentido":2,"Tipo":51,"DenominacaoTPTS":"LAPA","DenominacaoTSTP":"COHAB RAPOSO TAVARES","Informacoes":null}]
