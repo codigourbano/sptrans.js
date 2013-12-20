@@ -19,6 +19,7 @@
   "devDependencies": {
     "supertest": "latest",
     "should": "latest",
-    "mocha": "latest"
+    "mocha": "latest",
+    "replay": "latest"
   }
 }
