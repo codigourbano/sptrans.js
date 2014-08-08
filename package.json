@@ -1,7 +1,7 @@
 {
-  "name": "sptrans.js",
+  "name": "sptrans",
   "description": "A NodeJS module for SPTrans Olho Vivo API.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": false,
   "author": "Vitor George <vitor.george@gmail.com>",
   "repository" : {
